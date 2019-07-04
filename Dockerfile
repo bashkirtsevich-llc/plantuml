@@ -1,4 +1,4 @@
-FROM frolvlad/alpine-oraclejdk8
+FROM frolvlad/alpine-oraclejre8
 
 MAINTAINER Bashkirtsev D.A. <bashkirtsevich@gmail.com>
 LABEL maintainer="bashkirtsevich@gmail.com"
